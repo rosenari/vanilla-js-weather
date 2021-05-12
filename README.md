@@ -19,5 +19,5 @@ $ npm install
 ```
 
 ```bash
-$ npm run serve
+$ npm run dev
 ```
